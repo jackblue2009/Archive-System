@@ -1,0 +1,12 @@
+STEPS TO ENTER A VALID FILE PATH FOR THE SYSTEM:
+Here we use a third party software that adds an item (Copy path) in the windows contextual menu.
+You can download the latest release from the following link/
+https://pathcopycopy.github.io/
+
+1)Navigate to desired file in the Windows Explorer
+2)Right-Click on item, select 'path copy', then select 'path'
+3)Now in the Archive System software, paste the copied material into the file path list which in the same row to the selected file number, accordingly
+
+
+Software designed and implemented by Abdulrahman Bucheeri
+Powered by Soft99Tech
